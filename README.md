@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <br clear="both">
-
-<h2 align="center">Github contributions.</h2>
 <br clear="both">
 
   <picture>
