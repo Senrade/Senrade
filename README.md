@@ -27,3 +27,9 @@ Here are some ideas to get you started:
   </picture>
 
 <br clear="both">
+
+## Attribution
+
+Third-party tools and resources used to generate this profile content are listed in [ATTRIBUTION.md](ATTRIBUTION.md).
+
+<br clear="both">
