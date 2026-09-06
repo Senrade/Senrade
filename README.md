@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## My Stats
 <p>
   <img src="https://github-stats-extended.vercel.app/api?username=Senrade&amp;show_icons=true&amp;theme=tokyonight" alt="Senrade's github stats">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Senrade&amp;theme=tokyonight&amp;layout=compact" alt="Senrade's Top Langs">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Senrade&amp;theme=tokyonight&amp;layout=compact;exclude_repo=sixma" alt="Senrade's Top Langs">
 </p>
 
 ## My Skills
