@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+<h1>Frontend</h1>
 [![Frontend](https://skillicons.dev/icons?i=html,css,talwind,js)](https://skillicons.dev)
+<h1>Backend</h1>
 [![Backend](https://skillicons.dev/icons?i=python,sklearn,opencv)](https://skillicons.dev)
+<h1>Tools</h1>
 [![Tools](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
 
