@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <br clear="both">
 
 ## My Stats
-<p>
-  <img src="https://github-stats-extended.vercel.app/api?username=Senrade&amp;show_icons=true&amp;theme=tokyonight" alt="Senrade's github stats">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Senrade&amp;theme=tokyonight&amp;layout=compact;exclude_repo=sixma" alt="Senrade's Top Langs">
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Senrade&amp;show_icons=true&amp;theme=tokyonight" width="49%" alt="Senrade's github stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Senrade&amp;theme=tokyonight&amp;layout=compact&amp;exclude_repo=sixma&amp;hide=RouterOS%20Script" width="49%" alt="Senrade's Top Langs" />
 </p>
 
 ## My Skills
