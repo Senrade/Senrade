@@ -1,7 +1,6 @@
 # Attributions
 
 This file lists third-party projects, actions and resources used by this repository.
-Add new entries below as needed using the template.
 
 ---
 
