@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## My Stats
 [![Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=Senrade)](https://github.com/stats-organization/github-stats-extended)
 
 ## My Skills
 <h3>Frontend</h3>
