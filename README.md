@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-## Attribution
+[![Frontend](https://skillicons.dev/icons?i=html,css,talwind,js)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,sklearn,opencv)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,postman)](https://skillicons.dev)
 
-Third-party tools and resources used to generate this profile content are listed in [ATTRIBUTION.md](ATTRIBUTION.md).
-
-<br clear="both">
