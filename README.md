@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+## My Stats
+[![Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Skills
 <h3>Frontend</h3>
 <p>
