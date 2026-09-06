@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br clear="both">
 
 ## Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,taldwind,js)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
 ## Backend
 [![Backend](https://skillicons.dev/icons?i=python,sklearn,opencv)](https://skillicons.dev)
 ## Tools
