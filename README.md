@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
+### My Skills
 <h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/-HTML?logo=html5&logoColor=black&logoSize=amp&label=HTML5&labelColor=E34F26&color=E34F26" alt="HTML5" />
@@ -50,6 +51,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-n8n?logo=n8n&logoColor=white&logoSize=amp&label=n8n&labelColor=%23EA4B71&color=%23EA4B71" alt="n8n" />
   <img src="https://img.shields.io/badge/-Postman?logo=postman&logoColor=%23FF6C37&logoSize=amp&label=Postman&labelColor=white&color=white" alt="Postman" />
   <img src="https://img.shields.io/badge/-VirtualBox?logo=virtualbox&logoColor=white&logoSize=amp&label=Oracle%20VirtualBox&labelColor=%232F61B4&color=%232F61B4" alt="VirtualBox" />
-</p>logo=virtualbox&logoColor=white&logoSize=amp&label=Oracle%20VirtualBox&labelColor=%232F61B4&color=%232F61B4)
+</p>
 </p>
 
