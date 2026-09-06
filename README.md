@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 <br clear="both">
 
 ## My Stats
-[![Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=Senrade)](https://github.com/stats-organization/github-stats-extended)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Senrade&amp;show_icons=true&amp;theme=tokyonight" alt="Senrade's github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senrade&amp;theme=tokyonight&amp;layout=compact" alt="Senrade's Top Langs">
+</p>
 
 ## My Skills
 <h3>Frontend</h3>
