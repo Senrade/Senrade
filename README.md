@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-### My Skills
+## My Skills
 <h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/-HTML?logo=html5&logoColor=black&logoSize=amp&label=HTML5&labelColor=E34F26&color=E34F26" alt="HTML5" />
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/-Python?logo=python&logoColor=white&logoSize=amp&label=Python&labelColor=%233776AB&color=%233776AB" alt="Python" />
   <img src="https://img.shields.io/badge/-scikitlearn?logo=scikitlearn&logoColor=white&logoSize=amp&label=scikit-learn&labelColor=%23F7931E&color=%23F7931E" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/-NumPy?logo=numpy&logoColor=%23013243&logoSize=amp&label=NumPy&labelColor=white&color=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-NumPy?logo=numpy&logoColor=white&logoSize=amp&label=NumPy&labelColor=%23013243&color=%23013243" alt="NumPy" />
   <img src="https://img.shields.io/badge/-Pandas?logo=pandas&logoColor=%23150458&logoSize=amp&label=Pandas&labelColor=white&color=white" alt="Pandas" />
 </p>
 
